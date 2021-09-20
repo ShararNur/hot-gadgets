@@ -1,0 +1,65 @@
+.two,
+.three,
+.four {
+  margin-bottom: 100px;
+}
+
+.carousel-indicators .active {
+  background-color: #ff9c35 !important;
+}
+
+.carousel-indicators [data-bs-target] {
+  background-color: #cecece;
+}
+
+.bg-2 img {
+  width: 10%;
+}
+
+.bg-1 {
+  background-image: url(./images/bg-1.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.bg-1 img {
+  margin-left: 10%;
+}
+
+.card {
+  padding: 60px 60px 40px 60px;
+  text-align: center;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgray;
+}
+
+.orange h5 {
+  color: #ff9d00;
+}
+
+.card-footer {
+  border: none;
+  background-color: white;
+}
+
+.cat-1 {
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  margin-bottom: 10%;
+}
+
+.cat-2 {
+  margin-bottom: 10%;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.cat-3 {
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.card-text {
+  font-size: 1.2em;
+}
