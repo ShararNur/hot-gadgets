@@ -1,6 +1,6 @@
 # Hot Gadgets
 
-# [LIVE](https://manik-roy.github.io/hot-gadget/)
+# [LIVE](https://shararnur.github.io/hot-gadgets/)
 
 A dummy online gadget store.
 
